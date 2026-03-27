@@ -1,1 +1,7 @@
-
+[
+  { "name": "Home", "url": "/" },
+  { "name": "Temple", "url": "/temple/" },
+  { "name": "Travel", "url": "/travel/" },
+  { "name": "Things To Do", "url": "/thingstodo/" },
+  { "name": "Festivals", "url": "/festivals/" }
+]
