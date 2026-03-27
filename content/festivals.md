@@ -1,6 +1,6 @@
 ---
 title: Pandharpur Festivals
-layout: layouts/base.njk
+layout: base.njk
 ---
 
 <section class="p-5">
