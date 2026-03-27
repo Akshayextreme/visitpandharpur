@@ -5,7 +5,7 @@ layout: base.njk
 
 <section
 style="
-background-image: url('https://en.wikipedia.org/wiki/File:Syayambhuvithoba.jpg');
+background-image: url('https://vitthalrukminimandir.org/images/Image14.jpg');
 background-size: cover;
 background-position: center;
 height: 450px;
@@ -23,13 +23,4 @@ text-align: center;
 
 </section>
 
-<section class="p-5">
-<div class="container">
-
-## About Pandharpur
-
-Pandharpur is one of the most important pilgrimage destinations in Maharashtra.  
-Thousands of devotees visit the **Vitthal Rukmini Temple**, especially during Ashadhi Ekadashi.
-
-</div>
-</section>
+{% include "quick-links.njk" %}

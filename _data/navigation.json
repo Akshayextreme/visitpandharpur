@@ -2,6 +2,6 @@
   { "name": "Home", "url": "/" },
   { "name": "Temple", "url": "/temple/" },
   { "name": "Travel", "url": "/travel/" },
-  { "name": "Things To Do", "url": "/thingstodo/" },
+  { "name": "Things To Do", "url": "/things-to-do/" },
   { "name": "Festivals", "url": "/festivals/" }
 ]
